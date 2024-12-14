@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/Hi.gif" width="28px"/>, I'm Martin ACCOU</h2>
+<h1 align="center">Hi <img src="https://github.com/accoumar12/accoumar12/blob/readME/icons/Hi.gif" width="28px"/>, I'm Martin ACCOU</h2>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=MartinACCOU&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=accoumar12&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 Fullstack Developer
 <a href="https://parth-johri.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
@@ -17,17 +17,17 @@ Fullstack Developer
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, Android Development, and Chatbot Development</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
+ <summary><h2> <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
-  <summary><h4> <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
   <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
   - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
@@ -54,7 +54,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -101,21 +101,21 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-  #### <a href="https://github.com/MartinACCOU/rm-whatsapp-bot">RMNotices</a>
+  #### <a href="https://github.com/accoumar12/rm-whatsapp-bot">RMNotices</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
   - Implemented instant job alerts to notify users about new job opportunities, along with a **1-hour** reminder before the deadline for better organization and timely application submission. 
   - Accomplished a significant milestone of **500** daily users for RMNotices, surpassing initial projections aimed to add an extra **2,000** individuals to maximize user base potential. 
   - **Impact:** Maximized productivity by automating the notification process, eliminating manual monitoring and alerts, resulting in a **20%** reduction in Placement Coordinator’s workload.
 
-  #### <a href="https://github.com/MartinACCOU/Lumos-Bot">Lumos Bot</a>
+  #### <a href="https://github.com/accoumar12/Lumos-Bot">Lumos Bot</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>  
   - Developed a Whatsapp bot with features like interactive Q&A, company suggestions, job listings, real-time news, contest/hackathon updates, downloading YouTube/Facebook video, and providing 18 additional functionalities.
   - Boosted the daily user experience of **200** to **300** individuals with Lumos Whatsapp Bot.
   - **Impact:** Transformed user experience by incorporating various features, resulting in a remarkable **40%** increase in user engagement and a **25%** growth in active participation.
 
-#### <a href="https://github.com/MartinACCOU/Google-AMD-Hackathon">Krishi Market</a>
+#### <a href="https://github.com/accoumar12/Google-AMD-Hackathon">Krishi Market</a>
   <span>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
@@ -127,12 +127,12 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   - Innovated a web application which will reduce Farmers' dependency on Middlemen and help them sell their crops to retailers, wholesalers, and consumers at a better price. Not only this but this web app would help them to keep track of all their transactions.
   - **Impact:** Easy and Intuitive UI/UX which facilitated direct communication b/w farmers & consumers, with a secure Database and easy maintenance of all transaction records.
     
-  #### <a href="https://github.com/MartinACCOU/Face-flix">Face-Flix</a>
+  #### <a href="https://github.com/accoumar12/Face-flix">Face-Flix</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
   - Innovated a facial expression-based movie recommendation engine, amplifying user engagement by **30%** through personalized suggestions based on mood analysis.
   - **Impact:** Enhanced movie exploration, resulting in an increase in user satisfaction by **10%** to **30%**.
 
-  #### <a href="https://github.com/MartinACCOU/Medicine-Tracker">Medicine Tracker</a>
+  #### <a href="https://github.com/accoumar12/Medicine-Tracker">Medicine Tracker</a>
   <span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>  
   - Integrated ordering medicines, facts, and quotes to lighten up the user, light/dark mode, with the future plan of integrating notification system and Calorie/BMI calculator.
 </details>
@@ -141,7 +141,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### Leetcode
   <div align="center">
@@ -161,10 +161,10 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   ### GitHub
   <div align="center">
 
-   ![](https://github-readme-stats.vercel.app/api?username=MartinACCOU&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=MartinACCOU&theme=tokyonight&hide_border=false)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinACCOU&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=MartinACCOU&theme=tokyo-night)
+   ![](https://github-readme-stats.vercel.app/api?username=accoumar12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=accoumar12&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=accoumar12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=accoumar12&theme=tokyo-night)
 
   </div>
 </details>
@@ -173,26 +173,26 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-  <a href="https://github.com/MartinACCOU">
-    <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/Github.gif" width="70"/>
+  <a href="https://github.com/accoumar12">
+    <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/Github.gif" width="70"/>
   </a>
   <a href="https://linkedin.com/in/parthjohri07">
-    <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/Linkedin.gif" width="70"/>
+    <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.quora.com/profile/Martin-ACCOU-6">
-    <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/Quora.gif" width="70"/>
+    <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/Quora.gif" width="70"/>
   </a>
 </div>
 
   
 </details>
 
-## <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
+## <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
  <i>You can reach out to me via</i> 
 &nbsp;<a href="mailto:contact.parthjohri@gmail.com">
-     <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/Gmail.gif"  width="100"/>
+     <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
 
@@ -209,11 +209,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 5. 🙌🏼 Merged PR [1](https://github.com/parth782/Movie-Recommendation/pull/1) - [parth782/Movie-Recommendation](https://github.com/parth782/Movie-Recommendation)
 <!--Finish Merged PRs-->
 
-### <img align="center" src="https://github.com/MartinACCOU/MartinACCOU/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
+### <img align="center" src="https://github.com/accoumar12/accoumar12/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MartinACCOU/MartinACCOU/pull/1) in [MartinACCOU/MartinACCOU](https://github.com/MartinACCOU/MartinACCOU)
-2. 🗣 Commented on [#1](https://github.com/MartinACCOU/MartinACCOU/pull/1#issuecomment-2267439196) in [MartinACCOU/MartinACCOU](https://github.com/MartinACCOU/MartinACCOU)
+1. ❌ Closed PR [#1](https://github.com/accoumar12/accoumar12/pull/1) in [accoumar12/accoumar12](https://github.com/accoumar12/accoumar12)
+2. 🗣 Commented on [#1](https://github.com/accoumar12/accoumar12/pull/1#issuecomment-2267439196) in [accoumar12/accoumar12](https://github.com/accoumar12/accoumar12)
 3. 🗣 Commented on [#128](https://github.com/newwwie/newwwie.com/pull/128#issuecomment-2258763293) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
 4. 💪 Opened PR [#128](https://github.com/newwwie/newwwie.com/pull/128) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
 5. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2242632304) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
@@ -234,9 +234,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MartinACCOU/MartinACCOU/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MartinACCOU/MartinACCOU/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/MartinACCOU/MartinACCOU/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/accoumar12/accoumar12/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/accoumar12/accoumar12/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/accoumar12/accoumar12/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
